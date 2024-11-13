@@ -1,0 +1,72 @@
+1.  What is Blockchain 
+Blockchain is a decentralized, digital ledger technology that records 
+transactions across multiple computers, ensuring transparency and security 
+without a central authority. 
+2.   What is Cryptocurrency? 
+Cryptocurrency is a digital or virtual currency that uses cryptography for 
+security, operates on blockchain technology, and enables peer-to-peer 
+transactions without intermediaries, such as Bitcoin or Ethereum. 
+3. What are Transaction Wallets? 
+Transaction wallets are digital wallets that store cryptocurrencies and allow 
+users to send, receive, and manage their digital assets securely. Examples 
+include MetaMask and Trust Wallet. 
+4.   What is an Ether Transaction? 
+An Ether transaction involves transferring Ether (ETH), the native currency of 
+the Ethereum blockchain, between wallets. Transactions are recorded on the 
+blockchain and require a small transaction fee. 
+5.   
+Installation Process of MetaMask 
+• Step 1: Go to the MetaMask website or browser extension store. 
+• Step 2: Download and install MetaMask for your browser or mobile device. 
+• Step 3: Create a new wallet, set up a strong password, and securely store your 
+backup phrase. 
+• Step 4: Once set up, MetaMask is ready to manage Ether and other Ethereum
+based assets. 
+6.  What Are the Different Types of Blockchain Technology? 
+• Public Blockchain: Open to everyone (e.g., Bitcoin, Ethereum). 
+• Private Blockchain: Restricted access for specific users. 
+• Consortium Blockchain: Controlled by a group of organizations. 
+• Hybrid Blockchain: Combines public and private features for flexibility. 
+7.  What Are the Key Features/Properties of Blockchain? 
+• Decentralization: No central authority; data is spread across nodes. 
+• Transparency: Transactions are visible to all participants. 
+• Immutability: Data cannot be altered once added to the blockchain. 
+• Security: Cryptographic techniques secure data and transactions. 
+8. What is the Difference Between Ethereum and Bitcoin? 
+• Bitcoin: Primarily a digital currency for secure payments. 
+• Ethereum: A platform for creating decentralized applications (dApps) with 
+smart contract functionality, in addition to its currency, Ether. 
+9. What are Merkle Trees? Explain Their Concept. 
+Merkle Trees are a data structure used in blockchain to efficiently and securely 
+verify transactions. They organize transaction data into a tree structure, where 
+each leaf node is hashed, and hashes are combined up to form a single root 
+hash, providing an easy way to verify data integrity. 
+10.  Give Real-Life Use Cases of Blockchain. 
+• Finance: Cross-border payments and decentralized finance (DeFi). 
+• Supply Chain: Tracking goods from production to delivery. 
+• Healthcare: Secure storage and sharing of patient records. 
+• Voting Systems: Transparent and tamper-proof voting records. 
+• Digital Identity: Managing digital identities and preventing fraud. 
+Assignment C-2  : Create your own wallet using Metamask. 
+1.     
+What is Bitcoin? 
+Bitcoin is a decentralized digital currency created in 2009 by an anonymous 
+person or group known as Satoshi Nakamoto. It operates on blockchain 
+technology, allowing peer-to-peer transactions without the need for 
+intermediaries like banks. 
+2.   What Are the Biggest Four Common Cryptocurrency Scams? 
+Phishing Scams: Fake websites or emails trick users into revealing private 
+keys. 
+Ponzi Schemes: Fraudulent investment schemes promising high returns. 
+Fake ICOs (Initial Coin Offerings): Scammers create fake tokens or projects to 
+get investors’ funds. 
+Rug Pulls: Developers abandon a project suddenly, taking investors' money. 
+3. Explain How Safe Are Money E-Transfers? 
+Money e-transfers can be safe when using secure networks and reputable 
+services. Encryption and authentication protocols make them secure, but users 
+should be cautious of phishing, hacking, or unauthorized access. 
+4.   What is Cryptojacking and How Does It Work? 
+Cryptojacking is unauthorized use of someone’s computer or device to mine 
+cryptocurrency. Attackers install malware or use malicious scripts on websites 
+to hijack device resources, slowing down systems and potentially causing 
+damage.
